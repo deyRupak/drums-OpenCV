@@ -1,7 +1,7 @@
 # drumsCV
 Virtual Drum Kit powered by OpenCV
 
-drumsCV is basically a virtual drum kit that mirrors any standard drum set and can be played anywhere with the help of just 2 colored sticks.
+drumsCV is basically a virtual drum kit that mirrors any standard drum set and can be played anywhere with the help of 1 blue & 1 red colored sticks.
 
 Cloning this repository :
 ```
