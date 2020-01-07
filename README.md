@@ -12,7 +12,6 @@ Modules used :
 - pygame
 - cv2
 - numpy
-- sys
 
 Run : 
 
